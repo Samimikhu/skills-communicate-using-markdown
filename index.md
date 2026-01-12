@@ -15,3 +15,7 @@ int main() {
 
 	cout << myVar;
 }
+
+- [ ] Learn to use GitHub
+- [ ] Practice using it
+- [ ] Do homework assignments here
